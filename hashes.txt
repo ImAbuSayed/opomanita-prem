@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Opomanita Prem
+
+This log tracks the cryptographic history and versioning for the song **Opomanita Prem** (opomanita-prem).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T08:12:31.502502 | `v1` | `5604f337fa9d35f9299eaf762a32c4c2cce4a9feb26e9332cb9a8b978f2fb81d` | `d6930636c7e367bdba05375a78affe83de56ab0cbe14db0447b9d0dd1aac3303` | `2026-05-16_opomanita-prem-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

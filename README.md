@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/opomanita-prem/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Opomanita Prem](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/opomanita-prem/) |
+| **Get License** | [License this song: Opomanita Prem](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/opomanita-prem/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5604f337fa9d35f9299eaf762a32c4c2cce4a9feb26e9332cb9a8b978f2fb81d` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
