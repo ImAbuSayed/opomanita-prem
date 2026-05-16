@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/opomanita-prem/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Opomanita Prem](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/opomanita-prem/) |
+| **Get License** | [Request Licensing for Opomanita Prem](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/opomanita-prem/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অবুঝ রাতের আঁধারে খুঁজি তোমার সেই চেনা মুখ
+> আমার খাঁখাঁ বুকের ভেতর আজও বাজে পুরোনো সুখ.. পুরোনো সুখ..
+> ক্লান্ত স্মৃতির ক্যানভাসে আমি কেবল তোমার ছবি আঁকি
+> নির্ঘুম চোখের অপেক্ষাতে রোজ রাতে তোমায় ডাকি.. তোমায় ডাকি..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
